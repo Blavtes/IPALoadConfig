@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.100.152.185/app/app/gjfax.ipa</string>
+					<string>https://10.100.152.185/app/gjfax.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://10.100.152.185/app/app/AppIcon57.png</string>
+					<string>https://10.100.152.185/appIcon57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://10.100.152.185/app/app/AppIcon512.png</string>
+					<string>https://10.100.152.185/appIcon512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -43,7 +43,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.100.152.185/app/app/gjfax-iPad%20(4th%20generation)-etc.ipa</string>
+					<string>https://10.100.152.185/app/gjfax-iPad%20(4th%20generation)-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad3,6</string>
@@ -58,7 +58,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.100.152.185/app/app/gjfax-iPad%202-etc.ipa</string>
+					<string>https://10.100.152.185/app/gjfax-iPad%202-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad2,3</string>
@@ -74,7 +74,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.100.152.185/app/app/gjfax-iPad%20Pro%20(12.9-inch)-etc.ipa</string>
+					<string>https://10.100.152.185/app/gjfax-iPad%20Pro%20(12.9-inch)-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad7,4</string>
@@ -108,7 +108,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.100.152.185/app/app/gjfax-iPhone%206%20Plus-etc.ipa</string>
+					<string>https://10.100.152.185/app/gjfax-iPhone%206%20Plus-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone10,2</string>
@@ -125,7 +125,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.100.152.185/app/app/gjfax-iPhone%20SE-etc.ipa</string>
+					<string>https://10.100.152.185/app/gjfax-iPhone%20SE-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone10,1</string>
@@ -144,7 +144,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.100.152.185/app/app/gjfax-iPod%20touch-etc.ipa</string>
+					<string>https://10.100.152.185/app/gjfax-iPod%20touch-etc.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone5,2</string>
