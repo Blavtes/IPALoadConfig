@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.100.152.185/app/rn/GJFuFax.ipa</string>
+					<string>https://10.100.152.185/app/rn/release/GJFuFax.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -43,7 +43,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.100.152.185/app/rn/GJFuFax.ipa</string>
+					<string>https://10.100.152.185/app/rn/release/GJFuFax.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad3,6</string>
@@ -58,7 +58,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.100.152.185/app/rn/GJFuFax.ipa</string>
+					<string>https://10.100.152.185/app/rn/release/GJFuFax.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad2,3</string>
@@ -74,7 +74,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.100.152.185/app/rn/GJFuFax.ipa</string>
+					<string>https://10.100.152.185/app/rn/release/GJFuFax.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad7,4</string>
@@ -108,7 +108,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.100.152.185/app/rn/GJFuFax.ipa</string>
+					<string>https://10.100.152.185/app/rn/release/GJFuFax.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone10,2</string>
@@ -125,7 +125,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.100.152.185/app/rn/GJFuFax.ipa</string>
+					<string>https://10.100.152.185/app/rn/release/GJFuFax.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone10,1</string>
@@ -144,7 +144,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.100.152.185/app/rn/GJFuFax.ipa</string>
+					<string>https://10.100.152.185/app/rn/release/GJFuFax.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone5,2</string>
